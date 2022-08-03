@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="234.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controladores.ControladorVInfo">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="601.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagenes/infoNumberdle.png" />
+         </image>
+      </ImageView>
+   </children>
+</VBox>
